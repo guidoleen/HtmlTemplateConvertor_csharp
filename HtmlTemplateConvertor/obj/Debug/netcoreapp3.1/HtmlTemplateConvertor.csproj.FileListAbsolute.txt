@@ -1,0 +1,14 @@
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.csprojAssemblyReference.cache
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.AssemblyInfoInputs.cache
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.AssemblyInfo.cs
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.exe
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.deps.json
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.runtimeconfig.json
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.runtimeconfig.dev.json
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.dll
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlTemplateConvertor.pdb
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlParser.dll
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\bin\Debug\netcoreapp3.1\HtmlParser.pdb
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.csproj.CopyComplete
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.dll
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlTemplateConvertor\obj\Debug\netcoreapp3.1\HtmlTemplateConvertor.pdb

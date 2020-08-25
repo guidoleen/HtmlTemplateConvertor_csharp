@@ -1,0 +1,8 @@
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\obj\Debug\netcoreapp3.1\HtmlParser.csprojAssemblyReference.cache
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\obj\Debug\netcoreapp3.1\HtmlParser.AssemblyInfoInputs.cache
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\obj\Debug\netcoreapp3.1\HtmlParser.AssemblyInfo.cs
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\bin\Debug\netcoreapp3.1\HtmlParser.deps.json
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\bin\Debug\netcoreapp3.1\HtmlParser.dll
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\bin\Debug\netcoreapp3.1\HtmlParser.pdb
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\obj\Debug\netcoreapp3.1\HtmlParser.dll
+D:\_PersonalDir\HtmlTemplateConvertor\HtmlParser\obj\Debug\netcoreapp3.1\HtmlParser.pdb
